@@ -16,14 +16,14 @@ The official GitHub repository for the Fair Universe Toy Challenge is https://gi
 
 ### TER 
 TLTR : Initial attempt at creating a Toy Challenge and preliminary exploration of potential solution methods.<br>
-Work conditions : oct 2022 - jan 2023, a few hours a week <br>
+Working conditions : oct 2022 - jan 2023, a few hours a week <br>
 Folder contents : 
   - main.ipynb : Data generation, Optimal Bayes Classifier, ROC curve
   - TER report.pdf : associated report
 
 ### Internship
 TLTR : Focus on Domain Adversarial Neural Network (DANN) to tackle the problem. Improved version of the simulator. New physics paradigm. <br>
-Work conditions : may 2023 - jul 2023, full time M1 internship <br>
+Working conditions : may 2023 - jul 2023, full time M1 internship <br>
 Folder contents :
   - Data_Generator : files used to simulate data
   - starting_kit_ML : machine learning paradigm, qualitative and quantitative evaluation of DANN performances (see the two-branched implementation in technical_report.pdf)
